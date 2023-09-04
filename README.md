@@ -18,7 +18,7 @@ To enhance manageability, a custom Django Admin view is also implemented. This a
 - **TF-IDF Vectorization**: Transforms textual data into numerical vectors for advanced analysis.
 - **Cosine Similarity**: Computes similarity scores to accurately identify potential duplicates.
 - **Custom Django Admin View**: Facilitates the management of potential duplicates, allowing for quick decision-making on whether an entry is a duplicate or not.
-- **Optimized Daily Runs**: The duplicate detection process is designed to run daily, focusing only on newly scraped episodes for comparison against the existing database, making it highly efficient.
+- **Optimized Daily Runs**: The potential duplicate detection process is designed to run daily, focusing only on newly scraped episodes for comparison against the existing database, making it highly efficient.
 
 
 <br>
