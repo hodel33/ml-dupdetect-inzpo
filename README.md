@@ -1,4 +1,4 @@
-# ML Duplicate Detection - inzpo.me
+# ML Duplicate Detection - ([inzpo.me](https://inzpo.me))
 
 ## 📋 Overview
 
