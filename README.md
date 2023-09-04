@@ -2,13 +2,13 @@
 
 ## 📋 Overview
 
-This repository showcases a snippet from a larger Django project ([inzpo.me](https://inzpo.me)) that uses **Machine Learning** algorithms and a custom Django Admin view for the automated analysis and management of potential duplicate content.
-<br><br>
-[inzpo.me](https://inzpo.me), a passion project of mine & [Dyaland](https://github.com/Dyaland), is a first-of-its-kind platform that uses Python and Django to seamlessly connect people with inspiring personalities by notifying users of guest appearances on podcasts. The platform emphasizes scalability, performance optimization, and user engagement through various integrations like Spotify/ChatGPT APIs, Django Q2 for async task management, trie search for efficient data retrieval, custom caching mechanisms and other innovative functionalities.
+This repository showcases a snippet from a larger Django project ([inzpo.me](https://inzpo.me)) that uses **Machine Learning** algorithms for the sophisticated analysis and management of potential duplicate content.
 <br><br>
 Using scikit-learn's TF-IDF Vectorization and Cosine Similarity features, this logic efficiently identifies potential duplicate entries in large datasets. The detection process runs daily, comparing only the newly scraped episodes against the existing ones in the PostgreSQL-database, thereby optimizing efficiency.
 <br><br>
 To enhance manageability, a custom Django Admin view is also implemented. This allows for easy identification and exclusion of duplicates.
+<br><br>
+>[inzpo.me](https://inzpo.me), a passion project of mine & [Dyaland](https://github.com/Dyaland), is a first-of-its-kind platform that uses Python and Django to seamlessly connect people with inspiring personalities by notifying users of guest appearances on podcasts. The platform emphasizes scalability, performance optimization, and user engagement through various integrations like Spotify/ChatGPT APIs, Django Q2 for async task management, trie search for efficient data retrieval, custom caching mechanisms and other innovative functionalities.
 
 <br>
 
