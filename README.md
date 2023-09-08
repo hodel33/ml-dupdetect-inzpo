@@ -19,7 +19,7 @@ To enhance manageability, a custom Django Admin view has also been implemented. 
 - **Cosine Similarity**: Computes similarity scores to accurately identify potential duplicates.
 - **Custom Django Admin View**: Facilitates the management of potential duplicates, allowing for quick decision-making on whether an entry is a duplicate or not.
 - **Flexible and Optimized Runs**: The potential duplicate detection process is designed to run in two modes. It can focus only on newly scraped episodes for daily runs or analyze the entire dataset, making it highly efficient and adaptable to different use-cases.
-
+- **Resource Monitoring**: Includes built-in RAM usage tracking, optimizing performance and ensuring the system remains efficient when hosted online.
 
 <br>
 
