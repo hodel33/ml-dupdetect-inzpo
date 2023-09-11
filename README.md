@@ -24,6 +24,12 @@ To enhance manageability, a custom Django Admin view has also been implemented. 
 
 <br>
 
+![Admin View Screenshot](screens/admin_view.png)
+
+![Terminal Output Screenshot](screens/terminal_output.png)
+
+<br>
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
